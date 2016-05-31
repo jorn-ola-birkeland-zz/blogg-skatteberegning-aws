@@ -1,4 +1,4 @@
-package ske.fastsetting.skatt;
+package no.bekk.test.aws;
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClient;
 import com.amazonaws.services.dynamodbv2.document.DynamoDB;
