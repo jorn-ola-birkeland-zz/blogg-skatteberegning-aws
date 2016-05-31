@@ -1,4 +1,4 @@
-package ske.fastsetting.skatt;
+package no.bekk.test.aws;
 
 import com.amazonaws.services.kinesis.AmazonKinesisClient;
 import com.amazonaws.services.kinesis.model.PutRecordsRequest;
